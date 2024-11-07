@@ -1,0 +1,13 @@
+firebase_functions~=0.1.0
+openai==1.46.0
+slack_sdk==3.31.0
+epson-connect==0.2.3
+python-dotenv==1.0.1
+chardet==5.2.0
+pypdf==4.3.1
+docx==0.2.4
+python-docx==1.1.2
+python-pptx==1.0.1
+openpyxl==3.1.5
+epson-connect==0.2.3
+reportlab==4.2.5
